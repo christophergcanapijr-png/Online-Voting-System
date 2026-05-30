@@ -1,0 +1,327 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    position: relative;
+    z-index: 100;
+    backdrop-filter: blur(10px);
+}
+
+.navbar-inner {
+    padding: 0;
+}
+
+.navbar-inner .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Main Navigation */
+.nav.nav-pills {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav.nav-pills > li {
+    position: relative;
+}
+
+.nav.nav-pills > li > a {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 18px;
+    color: #e0e0e0;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    border-radius: 8px;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Animated background on hover */
+.nav.nav-pills > li > a::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, rgba(19, 36, 187, 0.8), rgba(12, 57, 179, 0.8));
+    transition: left 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+    z-index: -1;
+    border-radius: 8px;
+}
+
+.nav.nav-pills > li > a:hover::before {
+    left: 0;
+}
+
+.nav.nav-pills > li > a:hover {
+    color: #fff;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0, 27, 102, 0.25);
+}
+
+/* Active state */
+.nav.nav-pills li.active > a {
+    background: linear-gradient(135deg, #2b09c4 0%, #060499 100%);
+    color: #fff;
+    box-shadow: 0 8px 20px rgba(6, 18, 199, 0.4);
+    font-weight: 600;
+}
+
+.nav.nav-pills li.active > a::before {
+    left: 0;
+}
+
+/* Icon styling */
+.nav.nav-pills li a i {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+.nav.nav-pills li a:hover i {
+    transform: scale(1.2) rotate(5deg);
+}
+
+.nav.nav-pills li.active a i {
+    animation: bounce 0.6s ease;
+}
+
+/* ===== DROPDOWN STYLES ===== */
+.nav.nav-pills .dropdown {
+    position: relative;
+}
+
+.nav.nav-pills .dropdown-toggle {
+    cursor: pointer;
+}
+
+.nav.nav-pills .dropdown-toggle .caret {
+    margin-left: 5px;
+}
+
+.nav.nav-pills .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1001;
+    display: none;
+    float: left;
+    min-width: 240px;
+    padding: 8px 0;
+    margin: 6px 0 0;
+    font-size: 13px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+    animation: dropdownSlide 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.nav.nav-pills .dropdown-menu.show {
+    display: block !important;
+}
+
+@keyframes dropdownSlide {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.nav.nav-pills .dropdown-menu > li {
+    margin: 0;
+    position: relative;
+}
+
+.nav.nav-pills .dropdown-menu > li > a {
+    display: block;
+    padding: 12px 20px;
+    clear: both;
+    font-weight: 500;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    position: relative;
+    flex-direction: row;
+    gap: 0;
+    text-transform: none;
+    letter-spacing: normal;
+    font-size: 13px;
+}
+
+.nav.nav-pills .dropdown-menu > li > a:hover {
+    color: #8b0000;
+    background-color: rgba(139, 0, 0, 0.06);
+    padding-left: 24px;
+}
+
+.nav.nav-pills .dropdown-menu > li > a i {
+    margin-right: 8px;
+    color: #8b0000;
+    font-size: 14px;
+    transform: none;
+}
+
+.nav.nav-pills .dropdown-menu .divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: rgba(139, 0, 0, 0.1);
+}
+
+/* ===== SUBMENU STYLES ===== */
+.nav.nav-pills .dropdown-submenu {
+    position: relative;
+}
+
+.nav.nav-pills .dropdown-submenu > a::after {
+    content: ' ›';
+    font-size: 14px;
+    float: right;
+    margin-left: auto;
+}
+
+.nav.nav-pills .dropdown-submenu:hover > .dropdown-menu {
+    display: block !important;
+    animation: submenuSlide 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.nav.nav-pills .dropdown-submenu > .dropdown-menu {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    display: none;
+}
+
+@keyframes submenuSlide {
+    from {
+        opacity: 0;
+        transform: translateX(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* ===== ANIMATIONS ===== */
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-4px);
+    }
+}
+
+@keyframes pulse-glow {
+    0%, 100% {
+        box-shadow: 0 8px 20px #021b50ff ;
+    }
+    50% {
+        box-shadow: 0 12px 28px #021b50ff ;
+    }
+}
+
+.nav.nav-pills li.active > a {
+    animation: pulse-glow 2s ease-in-out infinite;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+@media (max-width: 768px) {
+    .nav.nav-pills {
+        flex-wrap: wrap;
+        gap: 6px;
+        justify-content: center;
+        padding: 10px 0;
+    }
+    
+    .nav.nav-pills > li > a {
+        padding: 10px 14px;
+        font-size: 12px;
+        flex-direction: column;
+        gap: 4px;
+    }
+    
+    .nav.nav-pills li a i {
+        font-size: 18px;
+    }
+    
+    .navbar-inner .container {
+        padding: 0 10px;
+        text-shadow: none;
+    }
+    
+    .nav.nav-pills .dropdown-menu {
+        position: static;
+        float: none;
+        width: 100%;
+        margin-top: 0;
+        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+        border: 0;
+        border-radius: 0;
+    }
+    
+    .nav.nav-pills .dropdown-submenu > .dropdown-menu {
+        position: static;
+        left: 0;
+        margin: 0;
+        padding-left: 20px;
+    }
+    
+    .nav.nav-pills .dropdown-menu > li > a {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .nav.nav-pills {
+        gap: 4px;
+    }
+    
+    .nav.nav-pills > li > a {
+        padding: 8px 10px;
+        font-size: 11px;
+    }
+}
+
+/* Smooth scroll behavior */
+html {
+    scroll-behavior: smooth;
+}
+.home_body {
+    margin-top: 0px;
+}

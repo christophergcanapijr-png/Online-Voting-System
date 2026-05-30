@@ -1,0 +1,563 @@
+/* ================================
+   GLOBAL LOOK
+   ================================ */
+body {
+    background: #fafafa !important;
+    font-family: "Segoe UI", Arial, sans-serif !important;
+    padding-top: 0 !important;
+    margin: 0 !important;
+}
+
+/* ================================
+   CARD-LIKE CONTENT WRAPPER
+   ================================ */
+.wrapper, .home_body {
+    background: #ffffff;
+    border-radius: 0;
+    padding: 15px;
+    padding-top: 0 !important;
+    margin: 0 !important;
+    margin-top: 0 !important;
+    width: 100%;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.10);
+}
+
+.wrapper {
+    margin-top: 0 !important;
+}
+
+.home_body {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* ================================
+   NAVIGATION (TABS)
+   ================================ */
+.navbar {
+    margin-top: 0 !important;
+    margin-bottom: 5px !important;
+}
+
+.navbar-inner {
+    margin-bottom: 0 !important;
+    background: #032775ff;
+}
+
+.pagination ul li a {
+    background: #2b09c4  !important;
+    border-radius: 6px !important;
+    padding: 8px 18px !important;
+    font-weight: bold;
+}
+
+.pagination ul li.active a {
+    background: #2b09c4  !important;
+}
+
+.pagination ul li a:hover {
+    background: #1b0480  !important;
+}
+
+/* ================================
+   HERO BODY SPACING
+   ================================ */
+.hero-body,
+#element {
+    margin-top: 0 !important;
+    padding-top: 5px !important;
+    padding: 10px;
+}
+
+/* ================================
+   SEARCH BAR AREA
+   ================================ */
+.search-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#search_id {
+    width: 260px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    font-size: 14px;
+}
+
+.btn-primary {
+    background: #2b09c4 !important;
+    border: none !important;
+    padding: 7px 14px;
+    border-radius: 6px;
+}
+
+.btn-primary:hover {
+    background: #2b09c4 !important;
+}
+
+/* ================================
+   FILTER DROPDOWN
+   ================================ */
+.form-control {
+    border-radius: 6px !important;
+    padding: 6px 10px !important;
+    border: 1px solid #ddd !important;
+}
+
+/* ================================
+   MODERN PASSWORD CONTROL PANEL
+   ================================ */
+.password-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px;
+    background: #f1f1f1;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+.password-controls .btn {
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+/* Maroon secondary */
+.btn.btn-secondary {
+    background: #2b09c4 !important;
+    color: white !important;
+    border: none !important;
+}
+.btn.btn-secondary:hover {
+    background: #444 !important;
+}
+
+/* Info (preview buttons) */
+.btn.btn-info {
+    background: #00688b !important;
+    color: white !important;
+    border: none !important;
+}
+.btn.btn-info:hover {
+    background: #0084b4 !important;
+}
+
+/* Warning preview selected */
+.btn.btn-warning {
+    background: #d48b00 !important;
+    color: white !important;
+    border: none !important;
+}
+.btn.btn-warning:hover {
+    background: #f0a200 !important;
+}
+
+/* ================================
+   TABLE MODERNIZATION - VOTER LIST STYLE
+   ================================ */
+.table {
+    border-radius: 8px !important;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    background: white;
+}
+
+/* Clean, simple thead matching voter list */
+.table thead {
+    background: #2b09c4  !important;
+    color: white !important;
+}
+
+.table thead th {
+    padding: 12px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    text-align: left;
+    border: none !important;
+}
+
+/* Remove any DataTables/UI sorting classes if present */
+.table thead th.ui-state-default {
+    background: #7a0000 !important;
+    color: white !important;
+    border: none !important;
+}
+
+/* Hide DataTables sorting wrappers */
+.DataTables_sort_wrapper {
+    display: none !important;
+}
+
+.DataTables_sort_icon {
+    display: none !important;
+}
+
+.table tbody tr {
+    background: #ffffff !important;
+    transition: background 0.2s;
+}
+
+.table tbody tr:nth-child(even) {
+    background: #f7f7f7 !important;
+}
+
+.table tbody tr:hover {
+    background: #fff4f4 !important;
+}
+
+.table tbody td {
+    padding: 10px 12px;
+    vertical-align: middle;
+    border-top: 1px solid #e8e8e8;
+}
+
+/* ================================
+   ACTION BUTTONS
+   ================================ */
+.btn-success {
+    background: #2b09c4  !important;
+    color: white !important;
+    border-radius: 6px !important;
+    padding: 6px 12px !important;
+    border: none !important;
+}
+.btn-success:hover {
+    background: #1fa268 !important;
+}
+
+.btn-danger, .btn-danger1 {
+    background: #d00000 !important;
+    color: white !important;
+    border-radius: 6px !important;
+    padding: 6px 12px !important;
+    border: none !important;
+}
+.btn-danger:hover, .btn-danger1:hover {
+    background: #f02a2a !important;
+}
+
+.btn-Success {
+    background: #198754 !important;
+    color: white !important;
+    border-radius: 6px !important;
+    padding: 6px 12px !important;
+    border: none !important;
+}
+.btn-Success:hover {
+    background: #1fa268 !important;
+}
+
+/* Fix tooltip hover conflict */
+.delete-voter, .toggle-enrollment {
+    position: relative;
+}
+
+/* ================================
+   PASSWORD MODAL MODERN LOOK
+   ================================ */
+#passwordPreviewModal .modal-header {
+    background:   #032775ff !important;
+    color: white !important;
+}
+
+#passwordPreviewModal .modal-footer {
+    background: #f5f5f5 !important;
+}
+
+/* ================================
+   SELECTED ROW HIGHLIGHT
+   ================================ */
+.selected-row {
+    background: #ffe2e2 !important;
+}
+
+/* ================================
+   COPY BUTTON
+   ================================ */
+#copyPasswordBtn {
+    background: #0b6bc7 !important;
+    color: white !important;
+    border-radius: 6px !important;
+}
+#copyPasswordBtn:hover {
+    background: #0f82f2 !important;
+}
+
+/* Clean modal */
+.modal {
+    border-radius: 10px !important;
+}
+
+/* ================================
+   MODERN HORIZONTAL TAB BAR
+   ================================ */
+.modern-tab-bar {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    padding: 10px;
+    background: #3a3a3a;
+    border-radius: 6px;
+    margin-top: 0 !important;
+    margin-bottom: 10px;
+}
+
+.modern-tab-bar:first-of-type {
+    margin-top: 0 !important;
+}
+
+/* Tab button style */
+.tab-btn {
+    background: #180372;
+    color: white !important;
+    padding: 8px 14px;
+    border-radius: 6px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: 0.2s;
+    white-space: nowrap;
+}
+
+.tab-btn:hover {
+    background: #2b09c4;
+}
+
+/* Active tab */
+.tab-btn.active {
+    background: #2b09c4;
+}
+
+/* Add candidate button (different color) */
+.tab-btn.add-btn {
+    background: #2b09c4 ;
+}
+
+.tab-btn.add-btn:hover {
+    background: #0052a3;
+}
+
+/* ================================
+   ADDITIONAL CONTAINER FIXES
+   ================================ */
+.container {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Remove any inherited top spacing */
+.demo_jui {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* ================================
+   TABLE PHOTO STYLING
+   ================================ */
+.table img.pic {
+    border-radius: 4px;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.table img.pic:hover {
+    transform: scale(1.1);
+}
+/* ================================
+   POPUP MESSAGE STYLES
+   ================================ */
+.popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+    align-items: center;
+    justify-content: center;
+}
+.popup-box {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 30px;
+    max-width: 400px;
+    width: 90%;
+    text-align: center;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    position: relative;
+    animation: popupSlideIn 0.3s ease-out;
+}
+
+@keyframes popupSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px) scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.popup-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #f3f4f6;
+    border: none;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+    color: #6b7280;
+    transition: all 0.2s;
+    line-height: 1;
+}
+
+.popup-close:hover {
+    background: #e5e7eb;
+    color: #991b1b;
+    transform: rotate(90deg);
+}
+
+.popup-icon {
+    margin-bottom: 20px;
+}
+
+.popup-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0 0 10px 0;
+    color: #1f2937;
+}
+
+.popup-message {
+    font-size: 14px;
+    color: #6b7280;
+    margin: 0 0 25px 0;
+    line-height: 1.5;
+}
+
+.popup-btn {
+    background: #991b1b;
+    color: #ffffff;
+    border: none;
+    padding: 12px 40px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.popup-btn:hover {
+    background: #7a1414;
+    box-shadow: 0 4px 12px rgba(153, 27, 27, 0.3);
+    transform: translateY(-2px);
+}
+
+.popup-box.success .popup-title {
+    color: #10b981;
+}
+
+.popup-box.error .popup-title {
+    color: #ef4444;
+}
+.popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+}
+
+.popup-overlay.show {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+ .selected-row {
+        background-color: #fffacd !important;
+        border-left: 3px solid #ffa500;
+    }
+    
+    /* Success popup notification */
+    .success-popup {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: #fff;
+        padding: 30px 40px;
+        border-radius: 10px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+        z-index: 9999;
+        text-align: center;
+        min-width: 300px;
+        animation: popupSlideIn 0.3s ease-out;
+    }
+    
+    @keyframes popupSlideIn {
+        from {
+            transform: translate(-50%, -60%);
+            opacity: 0;
+        }
+        to {
+            transform: translate(-50%, -50%);
+            opacity: 1;
+        }
+    }
+    
+    .success-popup.fade-out {
+        animation: popupFadeOut 0.3s ease-out forwards;
+    }
+    
+    @keyframes popupFadeOut {
+        to {
+            opacity: 0;
+            transform: translate(-50%, -40%);
+        }
+    }
+    
+    .success-popup-icon {
+        font-size: 50px;
+        color: #28a745;
+        margin-bottom: 15px;
+    }
+    
+    .success-popup-title {
+        font-size: 22px;
+        font-weight: bold;
+        color: #333;
+        margin-bottom: 10px;
+    }
+    
+    .success-popup-message {
+        font-size: 16px;
+        color: #666;
+        margin-bottom: 20px;
+    }
+    
+    .success-popup-backdrop {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 9998;
+        animation: backdropFadeIn 0.3s ease-out;
+    }
+    
+    @keyframes backdropFadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }

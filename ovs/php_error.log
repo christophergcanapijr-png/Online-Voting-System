@@ -1,0 +1,1067 @@
+[13-Oct-2025 05:43:09 Europe/Berlin] ===============================
+[13-Oct-2025 05:43:09 Europe/Berlin] Login attempt details:
+[13-Oct-2025 05:43:09 Europe/Berlin] Username: admin
+[13-Oct-2025 05:43:09 Europe/Berlin] Password length: 4
+[13-Oct-2025 05:43:09 Europe/Berlin] Raw password (for debugging): 1234
+[13-Oct-2025 05:43:09 Europe/Berlin] Username not found: admin
+[13-Oct-2025 05:43:22 Europe/Berlin] ===============================
+[13-Oct-2025 05:43:22 Europe/Berlin] Login attempt details:
+[13-Oct-2025 05:43:22 Europe/Berlin] Username: 4244
+[13-Oct-2025 05:43:22 Europe/Berlin] Password length: 4
+[13-Oct-2025 05:43:22 Europe/Berlin] Raw password (for debugging): haha
+[13-Oct-2025 05:43:22 Europe/Berlin] Found user in database:
+[13-Oct-2025 05:43:22 Europe/Berlin] Stored username: 4244
+[13-Oct-2025 05:43:22 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 05:43:22 Europe/Berlin] Stored password (for debugging): haha
+[13-Oct-2025 05:43:22 Europe/Berlin] Password match result: true
+[13-Oct-2025 05:43:22 Europe/Berlin] Login successful - Redirecting to: voting.php
+[13-Oct-2025 05:44:23 Europe/Berlin] ===============================
+[13-Oct-2025 05:44:23 Europe/Berlin] Login attempt details:
+[13-Oct-2025 05:44:23 Europe/Berlin] Username: 75722
+[13-Oct-2025 05:44:23 Europe/Berlin] Password length: 2
+[13-Oct-2025 05:44:23 Europe/Berlin] Raw password (for debugging): at
+[13-Oct-2025 05:44:23 Europe/Berlin] Found user in database:
+[13-Oct-2025 05:44:23 Europe/Berlin] Stored username: 75722
+[13-Oct-2025 05:44:23 Europe/Berlin] Stored password length: 2
+[13-Oct-2025 05:44:23 Europe/Berlin] Stored password (for debugging): at
+[13-Oct-2025 05:44:23 Europe/Berlin] Password match result: true
+[13-Oct-2025 05:44:23 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[13-Oct-2025 05:47:21 Europe/Berlin] ===============================
+[13-Oct-2025 05:47:21 Europe/Berlin] Login attempt details:
+[13-Oct-2025 05:47:21 Europe/Berlin] Username: 2025001
+[13-Oct-2025 05:47:21 Europe/Berlin] Password length: 4
+[13-Oct-2025 05:47:21 Europe/Berlin] Raw password (for debugging): Juan
+[13-Oct-2025 05:47:21 Europe/Berlin] Found user in database:
+[13-Oct-2025 05:47:21 Europe/Berlin] Stored username: 2025001
+[13-Oct-2025 05:47:21 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 05:47:21 Europe/Berlin] Stored password (for debugging): Juan
+[13-Oct-2025 05:47:21 Europe/Berlin] Password match result: true
+[13-Oct-2025 05:47:21 Europe/Berlin] Login successful - Redirecting to: voting4.php
+[13-Oct-2025 05:49:05 Europe/Berlin] ===============================
+[13-Oct-2025 05:49:05 Europe/Berlin] Login attempt details:
+[13-Oct-2025 05:49:05 Europe/Berlin] Username: 4244
+[13-Oct-2025 05:49:05 Europe/Berlin] Password length: 4
+[13-Oct-2025 05:49:05 Europe/Berlin] Raw password (for debugging): haha
+[13-Oct-2025 05:49:05 Europe/Berlin] Found user in database:
+[13-Oct-2025 05:49:05 Europe/Berlin] Stored username: 4244
+[13-Oct-2025 05:49:05 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 05:49:05 Europe/Berlin] Stored password (for debugging): haha
+[13-Oct-2025 05:49:05 Europe/Berlin] Password match result: true
+[13-Oct-2025 05:49:05 Europe/Berlin] Login successful - Redirecting to: voting.php
+[13-Oct-2025 06:10:23 Europe/Berlin] ===============================
+[13-Oct-2025 06:10:23 Europe/Berlin] Login attempt details:
+[13-Oct-2025 06:10:23 Europe/Berlin] Username: 22012242
+[13-Oct-2025 06:10:23 Europe/Berlin] Password length: 5
+[13-Oct-2025 06:10:23 Europe/Berlin] Raw password (for debugging): mario
+[13-Oct-2025 06:10:23 Europe/Berlin] Found user in database:
+[13-Oct-2025 06:10:23 Europe/Berlin] Stored username: 22012242
+[13-Oct-2025 06:10:23 Europe/Berlin] Stored password length: 5
+[13-Oct-2025 06:10:23 Europe/Berlin] Stored password (for debugging): mario
+[13-Oct-2025 06:10:23 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:35:42 Europe/Berlin] ===============================
+[13-Oct-2025 14:35:42 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:35:42 Europe/Berlin] Username: admin
+[13-Oct-2025 14:35:42 Europe/Berlin] Password length: 4
+[13-Oct-2025 14:35:42 Europe/Berlin] Raw password (for debugging): 1234
+[13-Oct-2025 14:35:42 Europe/Berlin] Username not found: admin
+[13-Oct-2025 14:36:13 Europe/Berlin] ===============================
+[13-Oct-2025 14:36:13 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:36:13 Europe/Berlin] Username: 21555251
+[13-Oct-2025 14:36:13 Europe/Berlin] Password length: 7
+[13-Oct-2025 14:36:13 Europe/Berlin] Raw password (for debugging): Anthony
+[13-Oct-2025 14:36:13 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:36:13 Europe/Berlin] Stored username: 21555251
+[13-Oct-2025 14:36:13 Europe/Berlin] Stored password length: 7
+[13-Oct-2025 14:36:13 Europe/Berlin] Stored password (for debugging): Anthony
+[13-Oct-2025 14:36:13 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:36:13 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[13-Oct-2025 14:36:24 Europe/Berlin] ===============================
+[13-Oct-2025 14:36:24 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:36:24 Europe/Berlin] Username: 2025001
+[13-Oct-2025 14:36:24 Europe/Berlin] Password length: 4
+[13-Oct-2025 14:36:24 Europe/Berlin] Raw password (for debugging): Juan
+[13-Oct-2025 14:36:24 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:36:24 Europe/Berlin] Stored username: 2025001
+[13-Oct-2025 14:36:24 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 14:36:24 Europe/Berlin] Stored password (for debugging): Juan
+[13-Oct-2025 14:36:24 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:36:24 Europe/Berlin] Login successful - Redirecting to: voting4.php
+[13-Oct-2025 14:37:06 Europe/Berlin] ===============================
+[13-Oct-2025 14:37:06 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:37:06 Europe/Berlin] Username: 2025001
+[13-Oct-2025 14:37:06 Europe/Berlin] Password length: 4
+[13-Oct-2025 14:37:06 Europe/Berlin] Raw password (for debugging): Juan
+[13-Oct-2025 14:37:06 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:37:06 Europe/Berlin] Stored username: 2025001
+[13-Oct-2025 14:37:06 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 14:37:06 Europe/Berlin] Stored password (for debugging): Juan
+[13-Oct-2025 14:37:06 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:37:06 Europe/Berlin] Login successful - Redirecting to: voting4.php
+[13-Oct-2025 14:48:00 Europe/Berlin] ===============================
+[13-Oct-2025 14:48:00 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:48:00 Europe/Berlin] Username: admin
+[13-Oct-2025 14:48:00 Europe/Berlin] Password length: 4
+[13-Oct-2025 14:48:00 Europe/Berlin] Raw password (for debugging): 1234
+[13-Oct-2025 14:48:00 Europe/Berlin] Username not found: admin
+[13-Oct-2025 14:48:08 Europe/Berlin] ===============================
+[13-Oct-2025 14:48:08 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:48:08 Europe/Berlin] Username: 2025001
+[13-Oct-2025 14:48:08 Europe/Berlin] Password length: 4
+[13-Oct-2025 14:48:08 Europe/Berlin] Raw password (for debugging): Juan
+[13-Oct-2025 14:48:08 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:48:08 Europe/Berlin] Stored username: 2025001
+[13-Oct-2025 14:48:08 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 14:48:08 Europe/Berlin] Stored password (for debugging): Juan
+[13-Oct-2025 14:48:08 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:48:08 Europe/Berlin] Login successful - Redirecting to: voting4.php
+[13-Oct-2025 14:50:46 Europe/Berlin] ===============================
+[13-Oct-2025 14:50:46 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:50:46 Europe/Berlin] Username: 21555251
+[13-Oct-2025 14:50:46 Europe/Berlin] Password length: 7
+[13-Oct-2025 14:50:46 Europe/Berlin] Raw password (for debugging): Anthony
+[13-Oct-2025 14:50:46 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:50:46 Europe/Berlin] Stored username: 21555251
+[13-Oct-2025 14:50:46 Europe/Berlin] Stored password length: 7
+[13-Oct-2025 14:50:46 Europe/Berlin] Stored password (for debugging): Anthony
+[13-Oct-2025 14:50:46 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:50:46 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[13-Oct-2025 14:50:56 Europe/Berlin] ===============================
+[13-Oct-2025 14:50:56 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:50:56 Europe/Berlin] Username: 12422
+[13-Oct-2025 14:50:56 Europe/Berlin] Password length: 3
+[13-Oct-2025 14:50:56 Europe/Berlin] Raw password (for debugging): who
+[13-Oct-2025 14:50:56 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:50:56 Europe/Berlin] Stored username: 12422
+[13-Oct-2025 14:50:56 Europe/Berlin] Stored password length: 3
+[13-Oct-2025 14:50:56 Europe/Berlin] Stored password (for debugging): who
+[13-Oct-2025 14:50:56 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:50:56 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[13-Oct-2025 14:51:09 Europe/Berlin] ===============================
+[13-Oct-2025 14:51:09 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:51:09 Europe/Berlin] Username: 12422
+[13-Oct-2025 14:51:09 Europe/Berlin] Password length: 3
+[13-Oct-2025 14:51:09 Europe/Berlin] Raw password (for debugging): who
+[13-Oct-2025 14:51:09 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:51:09 Europe/Berlin] Stored username: 12422
+[13-Oct-2025 14:51:09 Europe/Berlin] Stored password length: 3
+[13-Oct-2025 14:51:09 Europe/Berlin] Stored password (for debugging): who
+[13-Oct-2025 14:51:09 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:51:09 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[13-Oct-2025 14:51:58 Europe/Berlin] ===============================
+[13-Oct-2025 14:51:58 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:51:58 Europe/Berlin] Username: admin
+[13-Oct-2025 14:51:58 Europe/Berlin] Password length: 4
+[13-Oct-2025 14:51:58 Europe/Berlin] Raw password (for debugging): 1234
+[13-Oct-2025 14:51:58 Europe/Berlin] Username not found: admin
+[13-Oct-2025 14:52:11 Europe/Berlin] ===============================
+[13-Oct-2025 14:52:11 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:52:11 Europe/Berlin] Username: 12422
+[13-Oct-2025 14:52:11 Europe/Berlin] Password length: 7
+[13-Oct-2025 14:52:11 Europe/Berlin] Raw password (for debugging): Anthony
+[13-Oct-2025 14:52:11 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:52:11 Europe/Berlin] Stored username: 12422
+[13-Oct-2025 14:52:11 Europe/Berlin] Stored password length: 3
+[13-Oct-2025 14:52:11 Europe/Berlin] Stored password (for debugging): who
+[13-Oct-2025 14:52:11 Europe/Berlin] Password match result: false
+[13-Oct-2025 14:52:11 Europe/Berlin] Invalid password attempt for username: 12422
+[13-Oct-2025 14:52:21 Europe/Berlin] ===============================
+[13-Oct-2025 14:52:21 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:52:21 Europe/Berlin] Username: 12422
+[13-Oct-2025 14:52:21 Europe/Berlin] Password length: 3
+[13-Oct-2025 14:52:21 Europe/Berlin] Raw password (for debugging): who
+[13-Oct-2025 14:52:21 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:52:21 Europe/Berlin] Stored username: 12422
+[13-Oct-2025 14:52:21 Europe/Berlin] Stored password length: 3
+[13-Oct-2025 14:52:21 Europe/Berlin] Stored password (for debugging): who
+[13-Oct-2025 14:52:21 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:52:21 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[13-Oct-2025 14:52:43 Europe/Berlin] ===============================
+[13-Oct-2025 14:52:43 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:52:43 Europe/Berlin] Username: 214412
+[13-Oct-2025 14:52:43 Europe/Berlin] Password length: 5
+[13-Oct-2025 14:52:43 Europe/Berlin] Raw password (for debugging): Danik
+[13-Oct-2025 14:52:43 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:52:43 Europe/Berlin] Stored username: 214412
+[13-Oct-2025 14:52:43 Europe/Berlin] Stored password length: 5
+[13-Oct-2025 14:52:43 Europe/Berlin] Stored password (for debugging): Danik
+[13-Oct-2025 14:52:43 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:52:43 Europe/Berlin] Login successful - Redirecting to: voting.php
+[13-Oct-2025 14:54:47 Europe/Berlin] ===============================
+[13-Oct-2025 14:54:47 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:54:47 Europe/Berlin] Username: 214412
+[13-Oct-2025 14:54:47 Europe/Berlin] Password length: 5
+[13-Oct-2025 14:54:47 Europe/Berlin] Raw password (for debugging): Danik
+[13-Oct-2025 14:54:47 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:54:47 Europe/Berlin] Stored username: 214412
+[13-Oct-2025 14:54:47 Europe/Berlin] Stored password length: 5
+[13-Oct-2025 14:54:47 Europe/Berlin] Stored password (for debugging): Danik
+[13-Oct-2025 14:54:47 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:54:47 Europe/Berlin] Login successful - Redirecting to: voting.php
+[13-Oct-2025 14:59:35 Europe/Berlin] ===============================
+[13-Oct-2025 14:59:35 Europe/Berlin] Login attempt details:
+[13-Oct-2025 14:59:35 Europe/Berlin] Username: 214412
+[13-Oct-2025 14:59:35 Europe/Berlin] Password length: 5
+[13-Oct-2025 14:59:35 Europe/Berlin] Raw password (for debugging): Danik
+[13-Oct-2025 14:59:35 Europe/Berlin] Found user in database:
+[13-Oct-2025 14:59:35 Europe/Berlin] Stored username: 214412
+[13-Oct-2025 14:59:35 Europe/Berlin] Stored password length: 5
+[13-Oct-2025 14:59:35 Europe/Berlin] Stored password (for debugging): Danik
+[13-Oct-2025 14:59:35 Europe/Berlin] Password match result: true
+[13-Oct-2025 14:59:35 Europe/Berlin] Login successful - Redirecting to: voting.php
+[13-Oct-2025 21:43:42 Europe/Berlin] ===============================
+[13-Oct-2025 21:43:42 Europe/Berlin] Login attempt details:
+[13-Oct-2025 21:43:42 Europe/Berlin] Username: 75722
+[13-Oct-2025 21:43:42 Europe/Berlin] Password length: 2
+[13-Oct-2025 21:43:42 Europe/Berlin] Raw password (for debugging): at
+[13-Oct-2025 21:43:42 Europe/Berlin] Found user in database:
+[13-Oct-2025 21:43:42 Europe/Berlin] Stored username: 75722
+[13-Oct-2025 21:43:42 Europe/Berlin] Stored password length: 2
+[13-Oct-2025 21:43:42 Europe/Berlin] Stored password (for debugging): at
+[13-Oct-2025 21:43:42 Europe/Berlin] Password match result: true
+[13-Oct-2025 21:43:42 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[13-Oct-2025 21:56:14 Europe/Berlin] ===============================
+[13-Oct-2025 21:56:14 Europe/Berlin] Login attempt details:
+[13-Oct-2025 21:56:14 Europe/Berlin] Username: 2025001
+[13-Oct-2025 21:56:14 Europe/Berlin] Password length: 4
+[13-Oct-2025 21:56:14 Europe/Berlin] Raw password (for debugging): Juan
+[13-Oct-2025 21:56:14 Europe/Berlin] Found user in database:
+[13-Oct-2025 21:56:14 Europe/Berlin] Stored username: 2025001
+[13-Oct-2025 21:56:14 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 21:56:14 Europe/Berlin] Stored password (for debugging): Juan
+[13-Oct-2025 21:56:14 Europe/Berlin] Password match result: true
+[13-Oct-2025 21:56:14 Europe/Berlin] Login successful - Redirecting to: voting4.php
+[13-Oct-2025 22:35:36 Europe/Berlin] ===============================
+[13-Oct-2025 22:35:36 Europe/Berlin] Login attempt details:
+[13-Oct-2025 22:35:36 Europe/Berlin] Username: 42155122
+[13-Oct-2025 22:35:36 Europe/Berlin] Password length: 4
+[13-Oct-2025 22:35:36 Europe/Berlin] Raw password (for debugging): seci
+[13-Oct-2025 22:35:36 Europe/Berlin] Found user in database:
+[13-Oct-2025 22:35:36 Europe/Berlin] Stored username: 42155122
+[13-Oct-2025 22:35:36 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 22:35:36 Europe/Berlin] Stored password (for debugging): seci
+[13-Oct-2025 22:35:36 Europe/Berlin] Password match result: true
+[13-Oct-2025 22:35:36 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[13-Oct-2025 22:42:00 Europe/Berlin] ===============================
+[13-Oct-2025 22:42:00 Europe/Berlin] Login attempt details:
+[13-Oct-2025 22:42:00 Europe/Berlin] Username: 42155122
+[13-Oct-2025 22:42:00 Europe/Berlin] Password length: 4
+[13-Oct-2025 22:42:00 Europe/Berlin] Raw password (for debugging): seci
+[13-Oct-2025 22:42:00 Europe/Berlin] Found user in database:
+[13-Oct-2025 22:42:00 Europe/Berlin] Stored username: 42155122
+[13-Oct-2025 22:42:00 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 22:42:00 Europe/Berlin] Stored password (for debugging): seci
+[13-Oct-2025 22:42:00 Europe/Berlin] Password match result: true
+[13-Oct-2025 22:42:00 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[13-Oct-2025 22:42:05 Europe/Berlin] ===============================
+[13-Oct-2025 22:42:05 Europe/Berlin] Login attempt details:
+[13-Oct-2025 22:42:05 Europe/Berlin] Username: 42155122
+[13-Oct-2025 22:42:05 Europe/Berlin] Password length: 4
+[13-Oct-2025 22:42:05 Europe/Berlin] Raw password (for debugging): seci
+[13-Oct-2025 22:42:05 Europe/Berlin] Found user in database:
+[13-Oct-2025 22:42:05 Europe/Berlin] Stored username: 42155122
+[13-Oct-2025 22:42:05 Europe/Berlin] Stored password length: 4
+[13-Oct-2025 22:42:05 Europe/Berlin] Stored password (for debugging): seci
+[13-Oct-2025 22:42:05 Europe/Berlin] Password match result: true
+[13-Oct-2025 22:42:05 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 11:15:25 Europe/Berlin] ===============================
+[14-Oct-2025 11:15:25 Europe/Berlin] Login attempt details:
+[14-Oct-2025 11:15:25 Europe/Berlin] Username: 12422
+[14-Oct-2025 11:15:25 Europe/Berlin] Password length: 3
+[14-Oct-2025 11:15:25 Europe/Berlin] Raw password (for debugging): who
+[14-Oct-2025 11:15:25 Europe/Berlin] Found user in database:
+[14-Oct-2025 11:15:25 Europe/Berlin] Stored username: 12422
+[14-Oct-2025 11:15:25 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 11:15:25 Europe/Berlin] Stored password (for debugging): who
+[14-Oct-2025 11:15:25 Europe/Berlin] Password match result: true
+[14-Oct-2025 11:15:25 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 12:09:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\xampp\htdocs\ovs\ovs\ovs\header.php on line 2
+[14-Oct-2025 12:12:44 Europe/Berlin] ===============================
+[14-Oct-2025 12:12:44 Europe/Berlin] Login attempt details:
+[14-Oct-2025 12:12:44 Europe/Berlin] Username: admin
+[14-Oct-2025 12:12:44 Europe/Berlin] Password length: 3
+[14-Oct-2025 12:12:44 Europe/Berlin] Raw password (for debugging): 123
+[14-Oct-2025 12:12:44 Europe/Berlin] Username not found: admin
+[14-Oct-2025 12:56:54 Europe/Berlin] ===============================
+[14-Oct-2025 12:56:54 Europe/Berlin] Login attempt details:
+[14-Oct-2025 12:56:54 Europe/Berlin] Username: 214
+[14-Oct-2025 12:56:54 Europe/Berlin] Password length: 3
+[14-Oct-2025 12:56:54 Europe/Berlin] Raw password (for debugging): hey
+[14-Oct-2025 12:56:54 Europe/Berlin] Found user in database:
+[14-Oct-2025 12:56:54 Europe/Berlin] Stored username: 214
+[14-Oct-2025 12:56:54 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 12:56:54 Europe/Berlin] Stored password (for debugging): hey
+[14-Oct-2025 12:56:54 Europe/Berlin] Password match result: true
+[14-Oct-2025 12:56:54 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 13:00:06 Europe/Berlin] ===============================
+[14-Oct-2025 13:00:06 Europe/Berlin] Login attempt details:
+[14-Oct-2025 13:00:06 Europe/Berlin] Username: Bayot
+[14-Oct-2025 13:00:06 Europe/Berlin] Password length: 3
+[14-Oct-2025 13:00:06 Europe/Berlin] Raw password (for debugging): 000
+[14-Oct-2025 13:00:06 Europe/Berlin] Username not found: Bayot
+[14-Oct-2025 13:24:14 Europe/Berlin] ===============================
+[14-Oct-2025 13:24:14 Europe/Berlin] Login attempt details:
+[14-Oct-2025 13:24:14 Europe/Berlin] Username: Bayot
+[14-Oct-2025 13:24:14 Europe/Berlin] Password length: 3
+[14-Oct-2025 13:24:14 Europe/Berlin] Raw password (for debugging): 000
+[14-Oct-2025 13:24:14 Europe/Berlin] Username not found: Bayot
+[14-Oct-2025 13:24:20 Europe/Berlin] ===============================
+[14-Oct-2025 13:24:20 Europe/Berlin] Login attempt details:
+[14-Oct-2025 13:24:20 Europe/Berlin] Username: 214
+[14-Oct-2025 13:24:20 Europe/Berlin] Password length: 3
+[14-Oct-2025 13:24:20 Europe/Berlin] Raw password (for debugging): hey
+[14-Oct-2025 13:24:20 Europe/Berlin] Found user in database:
+[14-Oct-2025 13:24:20 Europe/Berlin] Stored username: 214
+[14-Oct-2025 13:24:20 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 13:24:20 Europe/Berlin] Stored password (for debugging): hey
+[14-Oct-2025 13:24:20 Europe/Berlin] Password match result: true
+[14-Oct-2025 13:24:20 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 14:12:02 Europe/Berlin] ===============================
+[14-Oct-2025 14:12:02 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:12:02 Europe/Berlin] Username: 42424
+[14-Oct-2025 14:12:02 Europe/Berlin] Password length: 5
+[14-Oct-2025 14:12:02 Europe/Berlin] Raw password (for debugging): chris
+[14-Oct-2025 14:12:02 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:12:02 Europe/Berlin] Stored username: 42424
+[14-Oct-2025 14:12:02 Europe/Berlin] Stored password length: 5
+[14-Oct-2025 14:12:02 Europe/Berlin] Stored password (for debugging): chris
+[14-Oct-2025 14:12:02 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:12:12 Europe/Berlin] ===============================
+[14-Oct-2025 14:12:12 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:12:12 Europe/Berlin] Username: 21555251
+[14-Oct-2025 14:12:12 Europe/Berlin] Password length: 7
+[14-Oct-2025 14:12:12 Europe/Berlin] Raw password (for debugging): Anthony
+[14-Oct-2025 14:12:12 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:12:12 Europe/Berlin] Stored username: 21555251
+[14-Oct-2025 14:12:12 Europe/Berlin] Stored password length: 7
+[14-Oct-2025 14:12:12 Europe/Berlin] Stored password (for debugging): Anthony
+[14-Oct-2025 14:12:12 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:12:12 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[14-Oct-2025 14:12:25 Europe/Berlin] ===============================
+[14-Oct-2025 14:12:25 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:12:25 Europe/Berlin] Username: 21555251
+[14-Oct-2025 14:12:25 Europe/Berlin] Password length: 7
+[14-Oct-2025 14:12:25 Europe/Berlin] Raw password (for debugging): Anthony
+[14-Oct-2025 14:12:25 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:12:25 Europe/Berlin] Stored username: 21555251
+[14-Oct-2025 14:12:25 Europe/Berlin] Stored password length: 7
+[14-Oct-2025 14:12:25 Europe/Berlin] Stored password (for debugging): Anthony
+[14-Oct-2025 14:12:25 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:12:25 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[14-Oct-2025 14:12:59 Europe/Berlin] ===============================
+[14-Oct-2025 14:12:59 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:12:59 Europe/Berlin] Username: 22012242
+[14-Oct-2025 14:12:59 Europe/Berlin] Password length: 5
+[14-Oct-2025 14:12:59 Europe/Berlin] Raw password (for debugging): mario
+[14-Oct-2025 14:12:59 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:12:59 Europe/Berlin] Stored username: 22012242
+[14-Oct-2025 14:12:59 Europe/Berlin] Stored password length: 5
+[14-Oct-2025 14:12:59 Europe/Berlin] Stored password (for debugging): mario
+[14-Oct-2025 14:12:59 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:12:59 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[14-Oct-2025 14:13:09 Europe/Berlin] ===============================
+[14-Oct-2025 14:13:09 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:13:09 Europe/Berlin] Username: 4244
+[14-Oct-2025 14:13:09 Europe/Berlin] Password length: 4
+[14-Oct-2025 14:13:09 Europe/Berlin] Raw password (for debugging): haha
+[14-Oct-2025 14:13:09 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:13:09 Europe/Berlin] Stored username: 4244
+[14-Oct-2025 14:13:09 Europe/Berlin] Stored password length: 4
+[14-Oct-2025 14:13:09 Europe/Berlin] Stored password (for debugging): haha
+[14-Oct-2025 14:13:09 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:13:09 Europe/Berlin] Login successful - Redirecting to: voting.php
+[14-Oct-2025 14:13:20 Europe/Berlin] ===============================
+[14-Oct-2025 14:13:20 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:13:20 Europe/Berlin] Username: 22012242
+[14-Oct-2025 14:13:20 Europe/Berlin] Password length: 5
+[14-Oct-2025 14:13:20 Europe/Berlin] Raw password (for debugging): mario
+[14-Oct-2025 14:13:20 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:13:20 Europe/Berlin] Stored username: 22012242
+[14-Oct-2025 14:13:20 Europe/Berlin] Stored password length: 5
+[14-Oct-2025 14:13:20 Europe/Berlin] Stored password (for debugging): mario
+[14-Oct-2025 14:13:20 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:13:20 Europe/Berlin] Login successful - Redirecting to: voting3.php
+[14-Oct-2025 14:14:16 Europe/Berlin] ===============================
+[14-Oct-2025 14:14:16 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:14:16 Europe/Berlin] Username: 2025001
+[14-Oct-2025 14:14:16 Europe/Berlin] Password length: 4
+[14-Oct-2025 14:14:16 Europe/Berlin] Raw password (for debugging): Juan
+[14-Oct-2025 14:14:16 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:14:16 Europe/Berlin] Stored username: 2025001
+[14-Oct-2025 14:14:16 Europe/Berlin] Stored password length: 4
+[14-Oct-2025 14:14:16 Europe/Berlin] Stored password (for debugging): Juan
+[14-Oct-2025 14:14:16 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:14:16 Europe/Berlin] Login successful - Redirecting to: voting4.php
+[14-Oct-2025 14:14:28 Europe/Berlin] ===============================
+[14-Oct-2025 14:14:28 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:14:28 Europe/Berlin] Username: 214
+[14-Oct-2025 14:14:28 Europe/Berlin] Password length: 3
+[14-Oct-2025 14:14:28 Europe/Berlin] Raw password (for debugging): hey
+[14-Oct-2025 14:14:28 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:14:28 Europe/Berlin] Stored username: 214
+[14-Oct-2025 14:14:28 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 14:14:28 Europe/Berlin] Stored password (for debugging): hey
+[14-Oct-2025 14:14:28 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:14:28 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 14:18:28 Europe/Berlin] ===============================
+[14-Oct-2025 14:18:28 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:18:28 Europe/Berlin] Username: 214
+[14-Oct-2025 14:18:28 Europe/Berlin] Password length: 3
+[14-Oct-2025 14:18:28 Europe/Berlin] Raw password (for debugging): hey
+[14-Oct-2025 14:18:28 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:18:28 Europe/Berlin] Stored username: 214
+[14-Oct-2025 14:18:28 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 14:18:28 Europe/Berlin] Stored password (for debugging): hey
+[14-Oct-2025 14:18:28 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:18:28 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 14:18:38 Europe/Berlin] ===============================
+[14-Oct-2025 14:18:38 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:18:38 Europe/Berlin] Username: 214
+[14-Oct-2025 14:18:38 Europe/Berlin] Password length: 3
+[14-Oct-2025 14:18:38 Europe/Berlin] Raw password (for debugging): hey
+[14-Oct-2025 14:18:38 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:18:38 Europe/Berlin] Stored username: 214
+[14-Oct-2025 14:18:38 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 14:18:38 Europe/Berlin] Stored password (for debugging): hey
+[14-Oct-2025 14:18:38 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:18:38 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 14:18:59 Europe/Berlin] ===============================
+[14-Oct-2025 14:18:59 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:18:59 Europe/Berlin] Username: 214
+[14-Oct-2025 14:18:59 Europe/Berlin] Password length: 3
+[14-Oct-2025 14:18:59 Europe/Berlin] Raw password (for debugging): hey
+[14-Oct-2025 14:18:59 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:18:59 Europe/Berlin] Stored username: 214
+[14-Oct-2025 14:18:59 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 14:18:59 Europe/Berlin] Stored password (for debugging): hey
+[14-Oct-2025 14:18:59 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:18:59 Europe/Berlin] Login successful - Redirecting to: voting2.php
+[14-Oct-2025 14:20:11 Europe/Berlin] ===============================
+[14-Oct-2025 14:20:11 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:20:11 Europe/Berlin] Username: 214
+[14-Oct-2025 14:20:11 Europe/Berlin] Password length: 3
+[14-Oct-2025 14:20:11 Europe/Berlin] Raw password (for debugging): hey
+[14-Oct-2025 14:20:11 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:20:11 Europe/Berlin] Stored username: 214
+[14-Oct-2025 14:20:11 Europe/Berlin] Stored password length: 3
+[14-Oct-2025 14:20:11 Europe/Berlin] Stored password (for debugging): hey
+[14-Oct-2025 14:20:11 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:20:11 Europe/Berlin] Login successful - Redirecting to: voting.php
+[14-Oct-2025 14:21:17 Europe/Berlin] ===============================
+[14-Oct-2025 14:21:17 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:21:17 Europe/Berlin] Username: 606
+[14-Oct-2025 14:21:17 Europe/Berlin] Password length: 5
+[14-Oct-2025 14:21:17 Europe/Berlin] Raw password (for debugging): bayot
+[14-Oct-2025 14:21:17 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:21:17 Europe/Berlin] Stored username: 606
+[14-Oct-2025 14:21:17 Europe/Berlin] Stored password length: 5
+[14-Oct-2025 14:21:17 Europe/Berlin] Stored password (for debugging): bayot
+[14-Oct-2025 14:21:17 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:21:26 Europe/Berlin] ===============================
+[14-Oct-2025 14:21:26 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:21:26 Europe/Berlin] Username: 75722
+[14-Oct-2025 14:21:26 Europe/Berlin] Password length: 2
+[14-Oct-2025 14:21:26 Europe/Berlin] Raw password (for debugging): at
+[14-Oct-2025 14:21:26 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:21:26 Europe/Berlin] Stored username: 75722
+[14-Oct-2025 14:21:26 Europe/Berlin] Stored password length: 2
+[14-Oct-2025 14:21:26 Europe/Berlin] Stored password (for debugging): at
+[14-Oct-2025 14:21:26 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:21:40 Europe/Berlin] ===============================
+[14-Oct-2025 14:21:40 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:21:40 Europe/Berlin] Username: 42155122
+[14-Oct-2025 14:21:40 Europe/Berlin] Password length: 3
+[14-Oct-2025 14:21:40 Europe/Berlin] Raw password (for debugging): sec
+[14-Oct-2025 14:21:40 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:21:40 Europe/Berlin] Stored username: 42155122
+[14-Oct-2025 14:21:40 Europe/Berlin] Stored password length: 4
+[14-Oct-2025 14:21:40 Europe/Berlin] Stored password (for debugging): seci
+[14-Oct-2025 14:21:40 Europe/Berlin] Password match result: false
+[14-Oct-2025 14:21:40 Europe/Berlin] Invalid password attempt for username: 42155122
+[14-Oct-2025 14:21:43 Europe/Berlin] ===============================
+[14-Oct-2025 14:21:43 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:21:43 Europe/Berlin] Username: 42155122
+[14-Oct-2025 14:21:43 Europe/Berlin] Password length: 4
+[14-Oct-2025 14:21:43 Europe/Berlin] Raw password (for debugging): seci
+[14-Oct-2025 14:21:43 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:21:43 Europe/Berlin] Stored username: 42155122
+[14-Oct-2025 14:21:43 Europe/Berlin] Stored password length: 4
+[14-Oct-2025 14:21:43 Europe/Berlin] Stored password (for debugging): seci
+[14-Oct-2025 14:21:43 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:21:43 Europe/Berlin] Login successful - Redirecting to: voting.php
+[14-Oct-2025 14:25:39 Europe/Berlin] ===============================
+[14-Oct-2025 14:25:39 Europe/Berlin] Login attempt details:
+[14-Oct-2025 14:25:39 Europe/Berlin] Username: 4244
+[14-Oct-2025 14:25:39 Europe/Berlin] Password length: 4
+[14-Oct-2025 14:25:39 Europe/Berlin] Raw password (for debugging): haha
+[14-Oct-2025 14:25:39 Europe/Berlin] Found user in database:
+[14-Oct-2025 14:25:39 Europe/Berlin] Stored username: 4244
+[14-Oct-2025 14:25:39 Europe/Berlin] Stored password length: 4
+[14-Oct-2025 14:25:39 Europe/Berlin] Stored password (for debugging): haha
+[14-Oct-2025 14:25:39 Europe/Berlin] Password match result: true
+[14-Oct-2025 14:25:39 Europe/Berlin] Login successful - Redirecting to: voting.php
+[17-Oct-2025 09:13:54 Europe/Berlin] ===============================
+[17-Oct-2025 09:13:54 Europe/Berlin] Login attempt details:
+[17-Oct-2025 09:13:54 Europe/Berlin] Username: 606
+[17-Oct-2025 09:13:54 Europe/Berlin] Password length: 5
+[17-Oct-2025 09:13:54 Europe/Berlin] Raw password (for debugging): bayot
+[17-Oct-2025 09:13:54 Europe/Berlin] Found user in database:
+[17-Oct-2025 09:13:54 Europe/Berlin] Stored username: 606
+[17-Oct-2025 09:13:54 Europe/Berlin] Stored password length: 5
+[17-Oct-2025 09:13:54 Europe/Berlin] Stored password (for debugging): bayot
+[17-Oct-2025 09:13:54 Europe/Berlin] Password match result: true
+[17-Oct-2025 09:13:54 Europe/Berlin] Login successful - Redirecting to: voting.php
+[17-Oct-2025 09:13:54 Europe/Berlin] ===============================
+[17-Oct-2025 09:13:54 Europe/Berlin] Login attempt details:
+[17-Oct-2025 09:13:54 Europe/Berlin] Username: 606
+[17-Oct-2025 09:13:54 Europe/Berlin] Password length: 5
+[17-Oct-2025 09:13:54 Europe/Berlin] Raw password (for debugging): bayot
+[17-Oct-2025 09:13:54 Europe/Berlin] Found user in database:
+[17-Oct-2025 09:13:54 Europe/Berlin] Stored username: 606
+[17-Oct-2025 09:13:54 Europe/Berlin] Stored password length: 5
+[17-Oct-2025 09:13:54 Europe/Berlin] Stored password (for debugging): bayot
+[17-Oct-2025 09:13:54 Europe/Berlin] Password match result: true
+[17-Oct-2025 09:13:54 Europe/Berlin] Login successful - Redirecting to: voting.php
+[17-Oct-2025 09:33:57 Europe/Berlin] ===============================
+[17-Oct-2025 09:33:57 Europe/Berlin] Login attempt details:
+[17-Oct-2025 09:33:57 Europe/Berlin] Username: 12422
+[17-Oct-2025 09:33:57 Europe/Berlin] Password length: 3
+[17-Oct-2025 09:33:57 Europe/Berlin] Raw password (for debugging): who
+[17-Oct-2025 09:33:57 Europe/Berlin] Found user in database:
+[17-Oct-2025 09:33:57 Europe/Berlin] Stored username: 12422
+[17-Oct-2025 09:33:57 Europe/Berlin] Stored password length: 3
+[17-Oct-2025 09:33:57 Europe/Berlin] Stored password (for debugging): who
+[17-Oct-2025 09:33:57 Europe/Berlin] Password match result: true
+[17-Oct-2025 09:33:57 Europe/Berlin] Login successful - Redirecting to: voting.php
+[17-Oct-2025 09:55:50 Europe/Berlin] ===============================
+[17-Oct-2025 09:55:50 Europe/Berlin] Login attempt details:
+[17-Oct-2025 09:55:50 Europe/Berlin] Username: 75722
+[17-Oct-2025 09:55:50 Europe/Berlin] Password length: 2
+[17-Oct-2025 09:55:50 Europe/Berlin] Raw password (for debugging): at
+[17-Oct-2025 09:55:50 Europe/Berlin] Found user in database:
+[17-Oct-2025 09:55:50 Europe/Berlin] Stored username: 75722
+[17-Oct-2025 09:55:50 Europe/Berlin] Stored password length: 2
+[17-Oct-2025 09:55:50 Europe/Berlin] Stored password (for debugging): at
+[17-Oct-2025 09:55:50 Europe/Berlin] Password match result: true
+[17-Oct-2025 09:55:50 Europe/Berlin] Login successful - Redirecting to: voting.php
+[17-Oct-2025 10:02:19 Europe/Berlin] ===============================
+[17-Oct-2025 10:02:19 Europe/Berlin] Login attempt details:
+[17-Oct-2025 10:02:19 Europe/Berlin] Username: 606
+[17-Oct-2025 10:02:19 Europe/Berlin] Password length: 5
+[17-Oct-2025 10:02:19 Europe/Berlin] Raw password (for debugging): bayot
+[17-Oct-2025 10:02:19 Europe/Berlin] Found user in database:
+[17-Oct-2025 10:02:19 Europe/Berlin] Stored username: 606
+[17-Oct-2025 10:02:19 Europe/Berlin] Stored password length: 5
+[17-Oct-2025 10:02:19 Europe/Berlin] Stored password (for debugging): bayot
+[17-Oct-2025 10:02:19 Europe/Berlin] Password match result: true
+[17-Oct-2025 10:02:19 Europe/Berlin] Login successful - Redirecting to: voting.php
+[23-Nov-2025 23:25:48 Europe/Berlin] ===============================
+[23-Nov-2025 23:25:48 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:25:48 Europe/Berlin] Username: 22012750
+[23-Nov-2025 23:25:48 Europe/Berlin] Password length: 5
+[23-Nov-2025 23:25:48 Europe/Berlin] Raw password (for debugging): davey
+[23-Nov-2025 23:25:48 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:25:48 Europe/Berlin] Stored username: 22012750
+[23-Nov-2025 23:25:48 Europe/Berlin] Stored password length: 5
+[23-Nov-2025 23:25:48 Europe/Berlin] Stored password (for debugging): davey
+[23-Nov-2025 23:25:48 Europe/Berlin] Password match result: true
+[23-Nov-2025 23:25:48 Europe/Berlin] Login successful - Redirecting to: voting.php
+[23-Nov-2025 23:29:58 Europe/Berlin] ===============================
+[23-Nov-2025 23:29:58 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:29:58 Europe/Berlin] Username: 22012750
+[23-Nov-2025 23:29:58 Europe/Berlin] Password length: 5
+[23-Nov-2025 23:29:58 Europe/Berlin] Raw password (for debugging): davey
+[23-Nov-2025 23:29:58 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:29:58 Europe/Berlin] Stored username: 22012750
+[23-Nov-2025 23:29:58 Europe/Berlin] Stored password length: 5
+[23-Nov-2025 23:29:58 Europe/Berlin] Stored password (for debugging): davey
+[23-Nov-2025 23:29:58 Europe/Berlin] Password match result: true
+[23-Nov-2025 23:29:58 Europe/Berlin] Login successful - Redirecting to: voting.php
+[23-Nov-2025 23:32:33 Europe/Berlin] ===============================
+[23-Nov-2025 23:32:33 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:32:33 Europe/Berlin] Username: 123
+[23-Nov-2025 23:32:33 Europe/Berlin] Password length: 5
+[23-Nov-2025 23:32:33 Europe/Berlin] Raw password (for debugging): chris
+[23-Nov-2025 23:32:33 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:32:33 Europe/Berlin] Stored username: 123
+[23-Nov-2025 23:32:33 Europe/Berlin] Stored password length: 4
+[23-Nov-2025 23:32:33 Europe/Berlin] Stored password (for debugging): chrs
+[23-Nov-2025 23:32:33 Europe/Berlin] Password match result: false
+[23-Nov-2025 23:32:33 Europe/Berlin] Invalid password attempt for username: 123
+[23-Nov-2025 23:32:39 Europe/Berlin] ===============================
+[23-Nov-2025 23:32:39 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:32:39 Europe/Berlin] Username: 123
+[23-Nov-2025 23:32:39 Europe/Berlin] Password length: 5
+[23-Nov-2025 23:32:39 Europe/Berlin] Raw password (for debugging): davet
+[23-Nov-2025 23:32:39 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:32:39 Europe/Berlin] Stored username: 123
+[23-Nov-2025 23:32:39 Europe/Berlin] Stored password length: 4
+[23-Nov-2025 23:32:39 Europe/Berlin] Stored password (for debugging): chrs
+[23-Nov-2025 23:32:39 Europe/Berlin] Password match result: false
+[23-Nov-2025 23:32:39 Europe/Berlin] Invalid password attempt for username: 123
+[23-Nov-2025 23:32:46 Europe/Berlin] ===============================
+[23-Nov-2025 23:32:46 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:32:46 Europe/Berlin] Username: 123
+[23-Nov-2025 23:32:46 Europe/Berlin] Password length: 3
+[23-Nov-2025 23:32:46 Europe/Berlin] Raw password (for debugging): chs
+[23-Nov-2025 23:32:46 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:32:46 Europe/Berlin] Stored username: 123
+[23-Nov-2025 23:32:46 Europe/Berlin] Stored password length: 4
+[23-Nov-2025 23:32:46 Europe/Berlin] Stored password (for debugging): chrs
+[23-Nov-2025 23:32:46 Europe/Berlin] Password match result: false
+[23-Nov-2025 23:32:46 Europe/Berlin] Invalid password attempt for username: 123
+[23-Nov-2025 23:32:54 Europe/Berlin] ===============================
+[23-Nov-2025 23:32:54 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:32:54 Europe/Berlin] Username: 123
+[23-Nov-2025 23:32:54 Europe/Berlin] Password length: 4
+[23-Nov-2025 23:32:54 Europe/Berlin] Raw password (for debugging): CHRS
+[23-Nov-2025 23:32:54 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:32:54 Europe/Berlin] Stored username: 123
+[23-Nov-2025 23:32:54 Europe/Berlin] Stored password length: 4
+[23-Nov-2025 23:32:54 Europe/Berlin] Stored password (for debugging): chrs
+[23-Nov-2025 23:32:54 Europe/Berlin] Password match result: false
+[23-Nov-2025 23:32:54 Europe/Berlin] Invalid password attempt for username: 123
+[23-Nov-2025 23:33:03 Europe/Berlin] ===============================
+[23-Nov-2025 23:33:03 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:33:03 Europe/Berlin] Username: 123
+[23-Nov-2025 23:33:03 Europe/Berlin] Password length: 4
+[23-Nov-2025 23:33:03 Europe/Berlin] Raw password (for debugging): chrs
+[23-Nov-2025 23:33:03 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:33:03 Europe/Berlin] Stored username: 123
+[23-Nov-2025 23:33:03 Europe/Berlin] Stored password length: 4
+[23-Nov-2025 23:33:03 Europe/Berlin] Stored password (for debugging): chrs
+[23-Nov-2025 23:33:03 Europe/Berlin] Password match result: true
+[23-Nov-2025 23:33:11 Europe/Berlin] ===============================
+[23-Nov-2025 23:33:11 Europe/Berlin] Login attempt details:
+[23-Nov-2025 23:33:11 Europe/Berlin] Username: 123
+[23-Nov-2025 23:33:11 Europe/Berlin] Password length: 4
+[23-Nov-2025 23:33:11 Europe/Berlin] Raw password (for debugging): chrs
+[23-Nov-2025 23:33:11 Europe/Berlin] Found user in database:
+[23-Nov-2025 23:33:11 Europe/Berlin] Stored username: 123
+[23-Nov-2025 23:33:11 Europe/Berlin] Stored password length: 4
+[23-Nov-2025 23:33:11 Europe/Berlin] Stored password (for debugging): chrs
+[23-Nov-2025 23:33:11 Europe/Berlin] Password match result: true
+[23-Nov-2025 23:33:11 Europe/Berlin] Login successful - Redirecting to: voting.php
+[27-Nov-2025 17:05:11 Europe/Berlin] ===============================
+[27-Nov-2025 17:05:11 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:05:11 Europe/Berlin] Username: 22012
+[27-Nov-2025 17:05:11 Europe/Berlin] Password length: 5
+[27-Nov-2025 17:05:11 Europe/Berlin] Raw password (for debugging): davey
+[27-Nov-2025 17:05:11 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:05:11 Europe/Berlin] Stored username: 22012
+[27-Nov-2025 17:05:11 Europe/Berlin] Stored password length: 6
+[27-Nov-2025 17:05:11 Europe/Berlin] Stored password (for debugging): langit
+[27-Nov-2025 17:05:11 Europe/Berlin] Password match result: false
+[27-Nov-2025 17:05:11 Europe/Berlin] Invalid password attempt for username: 22012
+[27-Nov-2025 17:05:18 Europe/Berlin] ===============================
+[27-Nov-2025 17:05:18 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:05:18 Europe/Berlin] Username: 22012
+[27-Nov-2025 17:05:18 Europe/Berlin] Password length: 5
+[27-Nov-2025 17:05:18 Europe/Berlin] Raw password (for debugging): davey
+[27-Nov-2025 17:05:18 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:05:18 Europe/Berlin] Stored username: 22012
+[27-Nov-2025 17:05:18 Europe/Berlin] Stored password length: 6
+[27-Nov-2025 17:05:18 Europe/Berlin] Stored password (for debugging): langit
+[27-Nov-2025 17:05:18 Europe/Berlin] Password match result: false
+[27-Nov-2025 17:05:18 Europe/Berlin] Invalid password attempt for username: 22012
+[27-Nov-2025 17:05:26 Europe/Berlin] ===============================
+[27-Nov-2025 17:05:26 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:05:26 Europe/Berlin] Username: 22012242
+[27-Nov-2025 17:05:26 Europe/Berlin] Password length: 5
+[27-Nov-2025 17:05:26 Europe/Berlin] Raw password (for debugging): mario
+[27-Nov-2025 17:05:26 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:05:26 Europe/Berlin] Stored username: 22012242
+[27-Nov-2025 17:05:26 Europe/Berlin] Stored password length: 5
+[27-Nov-2025 17:05:26 Europe/Berlin] Stored password (for debugging): mario
+[27-Nov-2025 17:05:26 Europe/Berlin] Password match result: true
+[27-Nov-2025 17:05:26 Europe/Berlin] Login successful - Redirecting to: voting.php
+[27-Nov-2025 17:16:28 Europe/Berlin] ===============================
+[27-Nov-2025 17:16:28 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:16:28 Europe/Berlin] Username: 42424
+[27-Nov-2025 17:16:28 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:16:28 Europe/Berlin] Raw password (for debugging): Sf,p54PH
+[27-Nov-2025 17:16:28 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:16:28 Europe/Berlin] Stored username: 42424
+[27-Nov-2025 17:16:28 Europe/Berlin] Stored password length: 5
+[27-Nov-2025 17:16:28 Europe/Berlin] Stored password (for debugging): chris
+[27-Nov-2025 17:16:28 Europe/Berlin] Password match result: false
+[27-Nov-2025 17:16:28 Europe/Berlin] Invalid password attempt for username: 42424
+[27-Nov-2025 17:18:47 Europe/Berlin] ===============================
+[27-Nov-2025 17:18:47 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:18:47 Europe/Berlin] Username: 42424
+[27-Nov-2025 17:18:47 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:18:47 Europe/Berlin] Raw password (for debugging): 7[t.,mXi
+[27-Nov-2025 17:18:47 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:18:47 Europe/Berlin] Stored username: 42424
+[27-Nov-2025 17:18:47 Europe/Berlin] Stored password length: 60
+[27-Nov-2025 17:18:47 Europe/Berlin] Stored password (for debugging): $2y$10$/Ur/MEzarQZ7UiLgnohZRORuprW9ghFS.C.NyhGnUzHuZdhYxyBV.
+[27-Nov-2025 17:18:47 Europe/Berlin] Password match result: false
+[27-Nov-2025 17:18:47 Europe/Berlin] Invalid password attempt for username: 42424
+[27-Nov-2025 17:18:55 Europe/Berlin] ===============================
+[27-Nov-2025 17:18:55 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:18:55 Europe/Berlin] Username: 42424
+[27-Nov-2025 17:18:55 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:18:55 Europe/Berlin] Raw password (for debugging): 7[t.,mXi
+[27-Nov-2025 17:18:55 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:18:55 Europe/Berlin] Stored username: 42424
+[27-Nov-2025 17:18:55 Europe/Berlin] Stored password length: 60
+[27-Nov-2025 17:18:55 Europe/Berlin] Stored password (for debugging): $2y$10$/Ur/MEzarQZ7UiLgnohZRORuprW9ghFS.C.NyhGnUzHuZdhYxyBV.
+[27-Nov-2025 17:18:55 Europe/Berlin] Password match result: false
+[27-Nov-2025 17:18:55 Europe/Berlin] Invalid password attempt for username: 42424
+[27-Nov-2025 17:19:50 Europe/Berlin] ===============================
+[27-Nov-2025 17:19:50 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:19:50 Europe/Berlin] Username: 42424
+[27-Nov-2025 17:19:50 Europe/Berlin] Password length: 5
+[27-Nov-2025 17:19:50 Europe/Berlin] Raw password (for debugging): chris
+[27-Nov-2025 17:19:50 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:19:50 Europe/Berlin] Stored username: 42424
+[27-Nov-2025 17:19:50 Europe/Berlin] Stored password length: 60
+[27-Nov-2025 17:19:50 Europe/Berlin] Stored password (for debugging): $2y$10$/Ur/MEzarQZ7UiLgnohZRORuprW9ghFS.C.NyhGnUzHuZdhYxyBV.
+[27-Nov-2025 17:19:50 Europe/Berlin] Password match result: false
+[27-Nov-2025 17:19:50 Europe/Berlin] Invalid password attempt for username: 42424
+[27-Nov-2025 17:19:58 Europe/Berlin] ===============================
+[27-Nov-2025 17:19:58 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:19:58 Europe/Berlin] Username: chris
+[27-Nov-2025 17:19:58 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:19:58 Europe/Berlin] Raw password (for debugging): 7[t.,mXi
+[27-Nov-2025 17:19:58 Europe/Berlin] Username not found: chris
+[27-Nov-2025 17:22:23 Europe/Berlin] ===============================
+[27-Nov-2025 17:22:23 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:22:23 Europe/Berlin] Username: at
+[27-Nov-2025 17:22:23 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:22:23 Europe/Berlin] Raw password (for debugging): 7g#:p*!k
+[27-Nov-2025 17:22:23 Europe/Berlin] Username not found: at
+[27-Nov-2025 17:22:46 Europe/Berlin] ===============================
+[27-Nov-2025 17:22:46 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:22:46 Europe/Berlin] Username: 75722
+[27-Nov-2025 17:22:46 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:22:46 Europe/Berlin] Raw password (for debugging): 7g#:p*!k
+[27-Nov-2025 17:22:46 Europe/Berlin] Username not found: 75722
+[27-Nov-2025 17:23:05 Europe/Berlin] ===============================
+[27-Nov-2025 17:23:05 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:23:05 Europe/Berlin] Username: 4244
+[27-Nov-2025 17:23:05 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:23:05 Europe/Berlin] Raw password (for debugging): 3,DK5b#S
+[27-Nov-2025 17:23:05 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:23:05 Europe/Berlin] Stored username: 4244
+[27-Nov-2025 17:23:05 Europe/Berlin] Stored password length: 8
+[27-Nov-2025 17:23:05 Europe/Berlin] Stored password (for debugging): +z7cU^oB
+[27-Nov-2025 17:23:05 Europe/Berlin] Password match result: false
+[27-Nov-2025 17:23:05 Europe/Berlin] Invalid password attempt for username: 4244
+[27-Nov-2025 17:23:26 Europe/Berlin] ===============================
+[27-Nov-2025 17:23:26 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:23:26 Europe/Berlin] Username: 42424
+[27-Nov-2025 17:23:26 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:23:26 Europe/Berlin] Raw password (for debugging): 3,DK5b#S
+[27-Nov-2025 17:23:26 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:23:26 Europe/Berlin] Stored username: 42424
+[27-Nov-2025 17:23:26 Europe/Berlin] Stored password length: 8
+[27-Nov-2025 17:23:26 Europe/Berlin] Stored password (for debugging): 3,DK5b#S
+[27-Nov-2025 17:23:26 Europe/Berlin] Password match result: true
+[27-Nov-2025 17:24:51 Europe/Berlin] ===============================
+[27-Nov-2025 17:24:51 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:24:51 Europe/Berlin] Username: 42155122
+[27-Nov-2025 17:24:51 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:24:51 Europe/Berlin] Raw password (for debugging): 7d)w&.sb
+[27-Nov-2025 17:24:51 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:24:51 Europe/Berlin] Stored username: 42155122
+[27-Nov-2025 17:24:51 Europe/Berlin] Stored password length: 8
+[27-Nov-2025 17:24:51 Europe/Berlin] Stored password (for debugging): 7d)w&.sb
+[27-Nov-2025 17:24:51 Europe/Berlin] Password match result: true
+[27-Nov-2025 17:24:51 Europe/Berlin] Login successful - Redirecting to: voting.php
+[27-Nov-2025 17:42:25 Europe/Berlin] ===============================
+[27-Nov-2025 17:42:25 Europe/Berlin] Login attempt details:
+[27-Nov-2025 17:42:25 Europe/Berlin] Username: 21555251
+[27-Nov-2025 17:42:25 Europe/Berlin] Password length: 8
+[27-Nov-2025 17:42:25 Europe/Berlin] Raw password (for debugging): U(8D$b;h
+[27-Nov-2025 17:42:25 Europe/Berlin] Found user in database:
+[27-Nov-2025 17:42:25 Europe/Berlin] Stored username: 21555251
+[27-Nov-2025 17:42:25 Europe/Berlin] Stored password length: 8
+[27-Nov-2025 17:42:25 Europe/Berlin] Stored password (for debugging): U(8D$b;h
+[27-Nov-2025 17:42:25 Europe/Berlin] Password match result: true
+[27-Nov-2025 17:42:25 Europe/Berlin] Login successful - Redirecting to: voting.php
+[28-Nov-2025 14:29:11 Europe/Berlin] ===============================
+[28-Nov-2025 14:29:11 Europe/Berlin] Login attempt details:
+[28-Nov-2025 14:29:11 Europe/Berlin] Username: 21555251
+[28-Nov-2025 14:29:11 Europe/Berlin] Password length: 7
+[28-Nov-2025 14:29:11 Europe/Berlin] Raw password (for debugging): Anthony
+[28-Nov-2025 14:29:11 Europe/Berlin] Found user in database:
+[28-Nov-2025 14:29:11 Europe/Berlin] Stored username: 21555251
+[28-Nov-2025 14:29:11 Europe/Berlin] Stored password length: 8
+[28-Nov-2025 14:29:11 Europe/Berlin] Stored password (for debugging): [63HYN)K
+[28-Nov-2025 14:29:11 Europe/Berlin] Password match result: false
+[28-Nov-2025 14:29:11 Europe/Berlin] Invalid password attempt for username: 21555251
+[28-Nov-2025 14:29:26 Europe/Berlin] ===============================
+[28-Nov-2025 14:29:26 Europe/Berlin] Login attempt details:
+[28-Nov-2025 14:29:26 Europe/Berlin] Username: Anthony
+[28-Nov-2025 14:29:26 Europe/Berlin] Password length: 28
+[28-Nov-2025 14:29:26 Europe/Berlin] Raw password (for debugging): Student ID: 21555251[63HYN)K
+[28-Nov-2025 14:29:26 Europe/Berlin] Username not found: Anthony
+[28-Nov-2025 14:29:37 Europe/Berlin] ===============================
+[28-Nov-2025 14:29:37 Europe/Berlin] Login attempt details:
+[28-Nov-2025 14:29:37 Europe/Berlin] Username: 21555251
+[28-Nov-2025 14:29:37 Europe/Berlin] Password length: 8
+[28-Nov-2025 14:29:37 Europe/Berlin] Raw password (for debugging): [63HYN)K
+[28-Nov-2025 14:29:37 Europe/Berlin] Found user in database:
+[28-Nov-2025 14:29:37 Europe/Berlin] Stored username: 21555251
+[28-Nov-2025 14:29:37 Europe/Berlin] Stored password length: 8
+[28-Nov-2025 14:29:37 Europe/Berlin] Stored password (for debugging): [63HYN)K
+[28-Nov-2025 14:29:37 Europe/Berlin] Password match result: true
+[28-Nov-2025 14:29:37 Europe/Berlin] Login successful - Redirecting to: voting.php
+[28-Nov-2025 15:28:39 Europe/Berlin] ===============================
+[28-Nov-2025 15:28:39 Europe/Berlin] Login attempt details:
+[28-Nov-2025 15:28:39 Europe/Berlin] Username: 102361
+[28-Nov-2025 15:28:39 Europe/Berlin] Password length: 9
+[28-Nov-2025 15:28:39 Europe/Berlin] Raw password (for debugging): balignsay
+[28-Nov-2025 15:28:39 Europe/Berlin] Found user in database:
+[28-Nov-2025 15:28:39 Europe/Berlin] Stored username: 102361
+[28-Nov-2025 15:28:39 Europe/Berlin] Stored password length: 10
+[28-Nov-2025 15:28:39 Europe/Berlin] Stored password (for debugging): balignasay
+[28-Nov-2025 15:28:39 Europe/Berlin] Password match result: false
+[28-Nov-2025 15:28:39 Europe/Berlin] Invalid password attempt for username: 102361
+[28-Nov-2025 15:28:47 Europe/Berlin] ===============================
+[28-Nov-2025 15:28:47 Europe/Berlin] Login attempt details:
+[28-Nov-2025 15:28:47 Europe/Berlin] Username: 102361
+[28-Nov-2025 15:28:47 Europe/Berlin] Password length: 10
+[28-Nov-2025 15:28:47 Europe/Berlin] Raw password (for debugging): balignasay
+[28-Nov-2025 15:28:47 Europe/Berlin] Found user in database:
+[28-Nov-2025 15:28:47 Europe/Berlin] Stored username: 102361
+[28-Nov-2025 15:28:47 Europe/Berlin] Stored password length: 10
+[28-Nov-2025 15:28:47 Europe/Berlin] Stored password (for debugging): balignasay
+[28-Nov-2025 15:28:47 Europe/Berlin] Password match result: true
+[28-Nov-2025 15:28:48 Europe/Berlin] Login successful - Redirecting to: voting.php
+[28-Nov-2025 20:52:44 Europe/Berlin] ===============================
+[28-Nov-2025 20:52:44 Europe/Berlin] Login attempt details:
+[28-Nov-2025 20:52:44 Europe/Berlin] Username: 102361
+[28-Nov-2025 20:52:44 Europe/Berlin] Password length: 26
+[28-Nov-2025 20:52:44 Europe/Berlin] Raw password (for debugging): Student ID: 102361)X$67pjj
+[28-Nov-2025 20:52:44 Europe/Berlin] Found user in database:
+[28-Nov-2025 20:52:44 Europe/Berlin] Stored username: 102361
+[28-Nov-2025 20:52:44 Europe/Berlin] Stored password length: 8
+[28-Nov-2025 20:52:44 Europe/Berlin] Stored password (for debugging): )X$67pjj
+[28-Nov-2025 20:52:44 Europe/Berlin] Password match result: false
+[28-Nov-2025 20:52:44 Europe/Berlin] Invalid password attempt for username: 102361
+[28-Nov-2025 20:52:50 Europe/Berlin] ===============================
+[28-Nov-2025 20:52:50 Europe/Berlin] Login attempt details:
+[28-Nov-2025 20:52:50 Europe/Berlin] Username: 102361
+[28-Nov-2025 20:52:50 Europe/Berlin] Password length: 8
+[28-Nov-2025 20:52:50 Europe/Berlin] Raw password (for debugging): )X$67pjj
+[28-Nov-2025 20:52:50 Europe/Berlin] Found user in database:
+[28-Nov-2025 20:52:50 Europe/Berlin] Stored username: 102361
+[28-Nov-2025 20:52:50 Europe/Berlin] Stored password length: 8
+[28-Nov-2025 20:52:50 Europe/Berlin] Stored password (for debugging): )X$67pjj
+[28-Nov-2025 20:52:50 Europe/Berlin] Password match result: true
+[28-Nov-2025 20:52:50 Europe/Berlin] Login successful - Redirecting to: voting.php
+[29-Nov-2025 06:52:55 Europe/Berlin] ===============================
+[29-Nov-2025 06:52:55 Europe/Berlin] Login attempt details:
+[29-Nov-2025 06:52:55 Europe/Berlin] Username: 102361
+[29-Nov-2025 06:52:55 Europe/Berlin] Password length: 8
+[29-Nov-2025 06:52:55 Europe/Berlin] Raw password (for debugging): 0a$C{ALh
+[29-Nov-2025 06:52:55 Europe/Berlin] Found user in database:
+[29-Nov-2025 06:52:55 Europe/Berlin] Stored username: 102361
+[29-Nov-2025 06:52:55 Europe/Berlin] Stored password length: 8
+[29-Nov-2025 06:52:55 Europe/Berlin] Stored password (for debugging): 0a$C{ALh
+[29-Nov-2025 06:52:55 Europe/Berlin] Password match result: true
+[29-Nov-2025 06:52:55 Europe/Berlin] Login successful - Redirecting to: voting.php
+[29-Nov-2025 18:02:34 Europe/Berlin] ===============================
+[29-Nov-2025 18:02:34 Europe/Berlin] Login attempt details:
+[29-Nov-2025 18:02:34 Europe/Berlin] Username: 75722
+[29-Nov-2025 18:02:34 Europe/Berlin] Password length: 8
+[29-Nov-2025 18:02:34 Europe/Berlin] Raw password (for debugging): 5{jZS<.u
+[29-Nov-2025 18:02:34 Europe/Berlin] Username not found: 75722
+[29-Nov-2025 18:02:52 Europe/Berlin] ===============================
+[29-Nov-2025 18:02:52 Europe/Berlin] Login attempt details:
+[29-Nov-2025 18:02:52 Europe/Berlin] Username: 75722
+[29-Nov-2025 18:02:52 Europe/Berlin] Password length: 8
+[29-Nov-2025 18:02:52 Europe/Berlin] Raw password (for debugging): 5{jZS<.u
+[29-Nov-2025 18:02:52 Europe/Berlin] Username not found: 75722
+[29-Nov-2025 18:03:04 Europe/Berlin] ===============================
+[29-Nov-2025 18:03:04 Europe/Berlin] Login attempt details:
+[29-Nov-2025 18:03:04 Europe/Berlin] Username: 21555251
+[29-Nov-2025 18:03:04 Europe/Berlin] Password length: 8
+[29-Nov-2025 18:03:04 Europe/Berlin] Raw password (for debugging): y!Qub8N0
+[29-Nov-2025 18:03:04 Europe/Berlin] Found user in database:
+[29-Nov-2025 18:03:04 Europe/Berlin] Stored username: 21555251
+[29-Nov-2025 18:03:04 Europe/Berlin] Stored password length: 8
+[29-Nov-2025 18:03:04 Europe/Berlin] Stored password (for debugging): y!Qub8N0
+[29-Nov-2025 18:03:04 Europe/Berlin] Password match result: true
+[29-Nov-2025 18:03:04 Europe/Berlin] Login successful - Redirecting to: voting.php
+[29-Nov-2025 18:03:29 Europe/Berlin] ===============================
+[29-Nov-2025 18:03:29 Europe/Berlin] Login attempt details:
+[29-Nov-2025 18:03:29 Europe/Berlin] Username: 75722
+[29-Nov-2025 18:03:29 Europe/Berlin] Password length: 8
+[29-Nov-2025 18:03:29 Europe/Berlin] Raw password (for debugging): 5{jZS<.u
+[29-Nov-2025 18:03:29 Europe/Berlin] Username not found: 75722
+[29-Nov-2025 18:04:38 Europe/Berlin] ===============================
+[29-Nov-2025 18:04:38 Europe/Berlin] Login attempt details:
+[29-Nov-2025 18:04:38 Europe/Berlin] Username: 102361
+[29-Nov-2025 18:04:38 Europe/Berlin] Password length: 8
+[29-Nov-2025 18:04:38 Europe/Berlin] Raw password (for debugging): 0a$C{ALh
+[29-Nov-2025 18:04:38 Europe/Berlin] Found user in database:
+[29-Nov-2025 18:04:38 Europe/Berlin] Stored username: 102361
+[29-Nov-2025 18:04:38 Europe/Berlin] Stored password length: 8
+[29-Nov-2025 18:04:38 Europe/Berlin] Stored password (for debugging): x!NN9RGK
+[29-Nov-2025 18:04:38 Europe/Berlin] Password match result: false
+[29-Nov-2025 18:04:38 Europe/Berlin] Invalid password attempt for username: 102361
+[29-Nov-2025 18:16:52 Europe/Berlin] ===============================
+[29-Nov-2025 18:16:52 Europe/Berlin] Login attempt details:
+[29-Nov-2025 18:16:52 Europe/Berlin] Username: 102361
+[29-Nov-2025 18:16:52 Europe/Berlin] Password length: 8
+[29-Nov-2025 18:16:52 Europe/Berlin] Raw password (for debugging): B]8Qnni,
+[29-Nov-2025 18:16:52 Europe/Berlin] Found user in database:
+[29-Nov-2025 18:16:52 Europe/Berlin] Stored username: 102361
+[29-Nov-2025 18:16:52 Europe/Berlin] Stored password length: 8
+[29-Nov-2025 18:16:52 Europe/Berlin] Stored password (for debugging): B]8Qnni,
+[29-Nov-2025 18:16:52 Europe/Berlin] Password match result: true
+[29-Nov-2025 18:16:52 Europe/Berlin] Login successful - Redirecting to: voting.php
+[30-Nov-2025 18:45:54 Europe/Berlin] ===============================
+[30-Nov-2025 18:45:54 Europe/Berlin] Login attempt details:
+[30-Nov-2025 18:45:54 Europe/Berlin] Username: 21555251
+[30-Nov-2025 18:45:54 Europe/Berlin] Password length: 8
+[30-Nov-2025 18:45:54 Europe/Berlin] Raw password (for debugging): 7<ZMCBw}
+[30-Nov-2025 18:45:54 Europe/Berlin] Found user in database:
+[30-Nov-2025 18:45:54 Europe/Berlin] Stored username: 21555251
+[30-Nov-2025 18:45:54 Europe/Berlin] Stored password length: 8
+[30-Nov-2025 18:45:54 Europe/Berlin] Stored password (for debugging): 7<ZMCBw}
+[30-Nov-2025 18:45:54 Europe/Berlin] Password match result: true
+[30-Nov-2025 18:45:54 Europe/Berlin] Login successful - Redirecting to: voting.php
+[30-Nov-2025 18:59:25 Europe/Berlin] ===============================
+[30-Nov-2025 18:59:25 Europe/Berlin] Login attempt details:
+[30-Nov-2025 18:59:25 Europe/Berlin] Username: 102361
+[30-Nov-2025 18:59:25 Europe/Berlin] Password length: 8
+[30-Nov-2025 18:59:25 Europe/Berlin] Raw password (for debugging): 7op<$Qnf
+[30-Nov-2025 18:59:25 Europe/Berlin] Found user in database:
+[30-Nov-2025 18:59:25 Europe/Berlin] Stored username: 102361
+[30-Nov-2025 18:59:25 Europe/Berlin] Stored password length: 8
+[30-Nov-2025 18:59:25 Europe/Berlin] Stored password (for debugging): 7op<$Qnf
+[30-Nov-2025 18:59:25 Europe/Berlin] Password match result: true
+[30-Nov-2025 19:42:24 Europe/Berlin] ===============================
+[30-Nov-2025 19:42:24 Europe/Berlin] Login attempt details:
+[30-Nov-2025 19:42:24 Europe/Berlin] Username: 29487421
+[30-Nov-2025 19:42:24 Europe/Berlin] Password length: 3
+[30-Nov-2025 19:42:24 Europe/Berlin] Raw password (for debugging): bur
+[30-Nov-2025 19:42:24 Europe/Berlin] Found user in database:
+[30-Nov-2025 19:42:24 Europe/Berlin] Stored username: 29487421
+[30-Nov-2025 19:42:24 Europe/Berlin] Stored password length: 3
+[30-Nov-2025 19:42:24 Europe/Berlin] Stored password (for debugging): bar
+[30-Nov-2025 19:42:24 Europe/Berlin] Password match result: false
+[30-Nov-2025 19:42:24 Europe/Berlin] Invalid password attempt for username: 29487421
+[30-Nov-2025 19:42:37 Europe/Berlin] ===============================
+[30-Nov-2025 19:42:37 Europe/Berlin] Login attempt details:
+[30-Nov-2025 19:42:37 Europe/Berlin] Username: 29487421
+[30-Nov-2025 19:42:37 Europe/Berlin] Password length: 3
+[30-Nov-2025 19:42:37 Europe/Berlin] Raw password (for debugging): bar
+[30-Nov-2025 19:42:37 Europe/Berlin] Found user in database:
+[30-Nov-2025 19:42:37 Europe/Berlin] Stored username: 29487421
+[30-Nov-2025 19:42:37 Europe/Berlin] Stored password length: 3
+[30-Nov-2025 19:42:37 Europe/Berlin] Stored password (for debugging): bar
+[30-Nov-2025 19:42:37 Europe/Berlin] Password match result: true
+[30-Nov-2025 19:42:37 Europe/Berlin] Login successful - Redirecting to: voting.php
+[03-Dec-2025 07:13:33 Europe/Berlin] ===============================
+[03-Dec-2025 07:13:33 Europe/Berlin] Login attempt details:
+[03-Dec-2025 07:13:33 Europe/Berlin] Username: 22012242
+[03-Dec-2025 07:13:34 Europe/Berlin] Password length: 8
+[03-Dec-2025 07:13:34 Europe/Berlin] Raw password (for debugging): =_8y>s()
+[03-Dec-2025 07:13:34 Europe/Berlin] Found user in database:
+[03-Dec-2025 07:13:34 Europe/Berlin] Stored username: 22012242
+[03-Dec-2025 07:13:34 Europe/Berlin] Stored password length: 8
+[03-Dec-2025 07:13:34 Europe/Berlin] Stored password (for debugging): =_8y>s()
+[03-Dec-2025 07:13:34 Europe/Berlin] Password match result: true
+[03-Dec-2025 07:13:34 Europe/Berlin] Login successful - Redirecting to: voting.php
+[03-Dec-2025 07:30:57 Europe/Berlin] ===============================
+[03-Dec-2025 07:30:57 Europe/Berlin] Login attempt details:
+[03-Dec-2025 07:30:57 Europe/Berlin] Username: 12422
+[03-Dec-2025 07:30:57 Europe/Berlin] Password length: 8
+[03-Dec-2025 07:30:57 Europe/Berlin] Raw password (for debugging): 1!xjGBHD
+[03-Dec-2025 07:30:57 Europe/Berlin] Found user in database:
+[03-Dec-2025 07:30:57 Europe/Berlin] Stored username: 12422
+[03-Dec-2025 07:30:57 Europe/Berlin] Stored password length: 8
+[03-Dec-2025 07:30:57 Europe/Berlin] Stored password (for debugging): 1!xjGBHD
+[03-Dec-2025 07:30:57 Europe/Berlin] Password match result: true
+[03-Dec-2025 07:30:57 Europe/Berlin] Login successful - Redirecting to: voting.php
+[03-Dec-2025 07:56:47 Europe/Berlin] ===============================
+[03-Dec-2025 07:56:47 Europe/Berlin] Login attempt details:
+[03-Dec-2025 07:56:47 Europe/Berlin] Username: 12422
+[03-Dec-2025 07:56:47 Europe/Berlin] Password length: 8
+[03-Dec-2025 07:56:47 Europe/Berlin] Raw password (for debugging): 1!xjGBHD
+[03-Dec-2025 07:56:47 Europe/Berlin] Found user in database:
+[03-Dec-2025 07:56:47 Europe/Berlin] Stored username: 12422
+[03-Dec-2025 07:56:47 Europe/Berlin] Stored password length: 8
+[03-Dec-2025 07:56:47 Europe/Berlin] Stored password (for debugging): 1!xjGBHD
+[03-Dec-2025 07:56:47 Europe/Berlin] Password match result: true
+[03-Dec-2025 07:56:47 Europe/Berlin] Login successful - Redirecting to: voting.php
+[03-Dec-2025 08:58:19 Europe/Berlin] ===============================
+[03-Dec-2025 08:58:19 Europe/Berlin] Login attempt details:
+[03-Dec-2025 08:58:19 Europe/Berlin] Username: 2025001
+[03-Dec-2025 08:58:19 Europe/Berlin] Password length: 8
+[03-Dec-2025 08:58:19 Europe/Berlin] Raw password (for debugging): V@Dv930u
+[03-Dec-2025 08:58:19 Europe/Berlin] Found user in database:
+[03-Dec-2025 08:58:19 Europe/Berlin] Stored username: 2025001
+[03-Dec-2025 08:58:19 Europe/Berlin] Stored password length: 8
+[03-Dec-2025 08:58:19 Europe/Berlin] Stored password (for debugging): V@Dv930u
+[03-Dec-2025 08:58:19 Europe/Berlin] Password match result: true
+[03-Dec-2025 08:58:19 Europe/Berlin] Login successful - Redirecting to: voting.php
+[04-Dec-2025 07:38:00 Europe/Berlin] ===============================
+[04-Dec-2025 07:38:00 Europe/Berlin] Login attempt details:
+[04-Dec-2025 07:38:00 Europe/Berlin] Username: 2024001
+[04-Dec-2025 07:38:00 Europe/Berlin] Password length: 8
+[04-Dec-2025 07:38:00 Europe/Berlin] Raw password (for debugging): m}9^:}[m
+[04-Dec-2025 07:38:00 Europe/Berlin] Found user in database:
+[04-Dec-2025 07:38:00 Europe/Berlin] Stored username: 2024001
+[04-Dec-2025 07:38:00 Europe/Berlin] Stored password length: 8
+[04-Dec-2025 07:38:00 Europe/Berlin] Stored password (for debugging): m}9^:}[m
+[04-Dec-2025 07:38:00 Europe/Berlin] Password match result: true
+[04-Dec-2025 07:38:16 Europe/Berlin] ===============================
+[04-Dec-2025 07:38:16 Europe/Berlin] Login attempt details:
+[04-Dec-2025 07:38:16 Europe/Berlin] Username: 2024001
+[04-Dec-2025 07:38:16 Europe/Berlin] Password length: 8
+[04-Dec-2025 07:38:16 Europe/Berlin] Raw password (for debugging): m}9^:}[m
+[04-Dec-2025 07:38:16 Europe/Berlin] Found user in database:
+[04-Dec-2025 07:38:16 Europe/Berlin] Stored username: 2024001
+[04-Dec-2025 07:38:16 Europe/Berlin] Stored password length: 8
+[04-Dec-2025 07:38:16 Europe/Berlin] Stored password (for debugging): m}9^:}[m
+[04-Dec-2025 07:38:16 Europe/Berlin] Password match result: true
+[04-Dec-2025 07:38:16 Europe/Berlin] Login successful - Redirecting to: voting.php
+[04-Dec-2025 09:26:24 Europe/Berlin] ===============================
+[04-Dec-2025 09:26:24 Europe/Berlin] Login attempt details:
+[04-Dec-2025 09:26:24 Europe/Berlin] Username: 2024008
+[04-Dec-2025 09:26:24 Europe/Berlin] Password length: 8
+[04-Dec-2025 09:26:24 Europe/Berlin] Raw password (for debugging): .66SJR6p
+[04-Dec-2025 09:26:24 Europe/Berlin] Found user in database:
+[04-Dec-2025 09:26:24 Europe/Berlin] Stored username: 2024008
+[04-Dec-2025 09:26:24 Europe/Berlin] Stored password length: 8
+[04-Dec-2025 09:26:24 Europe/Berlin] Stored password (for debugging): .66SJR6p
+[04-Dec-2025 09:26:24 Europe/Berlin] Password match result: true
+[04-Dec-2025 09:26:24 Europe/Berlin] Login successful - Redirecting to: voting.php
+[04-Dec-2025 16:58:49 Europe/Berlin] ===============================
+[04-Dec-2025 16:58:49 Europe/Berlin] Login attempt details:
+[04-Dec-2025 16:58:49 Europe/Berlin] Username: 2024002
+[04-Dec-2025 16:58:49 Europe/Berlin] Password length: 8
+[04-Dec-2025 16:58:49 Europe/Berlin] Raw password (for debugging): 7_n)!)@x
+[04-Dec-2025 16:58:49 Europe/Berlin] Found user in database:
+[04-Dec-2025 16:58:49 Europe/Berlin] Stored username: 2024002
+[04-Dec-2025 16:58:49 Europe/Berlin] Stored password length: 8
+[04-Dec-2025 16:58:49 Europe/Berlin] Stored password (for debugging): 7_n)!)@x
+[04-Dec-2025 16:58:49 Europe/Berlin] Password match result: true
+[04-Dec-2025 16:58:49 Europe/Berlin] Login successful - Redirecting to: voting.php
+[05-Dec-2025 04:38:16 Europe/Berlin] ===============================
+[05-Dec-2025 04:38:16 Europe/Berlin] Login attempt details:
+[05-Dec-2025 04:38:16 Europe/Berlin] Username: 2024005
+[05-Dec-2025 04:38:16 Europe/Berlin] Password length: 8
+[05-Dec-2025 04:38:16 Europe/Berlin] Raw password (for debugging): 7aU<c,hP
+[05-Dec-2025 04:38:16 Europe/Berlin] Found user in database:
+[05-Dec-2025 04:38:16 Europe/Berlin] Stored username: 2024005
+[05-Dec-2025 04:38:16 Europe/Berlin] Stored password length: 8
+[05-Dec-2025 04:38:16 Europe/Berlin] Stored password (for debugging): 7aU<c,hP
+[05-Dec-2025 04:38:16 Europe/Berlin] Password match result: true
+[05-Dec-2025 04:38:16 Europe/Berlin] Login successful - Redirecting to: voting.php
+[05-Dec-2025 04:52:47 Europe/Berlin] ===============================
+[05-Dec-2025 04:52:47 Europe/Berlin] Login attempt details:
+[05-Dec-2025 04:52:47 Europe/Berlin] Username: 2024013
+[05-Dec-2025 04:52:47 Europe/Berlin] Password length: 8
+[05-Dec-2025 04:52:47 Europe/Berlin] Raw password (for debugging): U]D)o7UN
+[05-Dec-2025 04:52:47 Europe/Berlin] Found user in database:
+[05-Dec-2025 04:52:47 Europe/Berlin] Stored username: 2024013
+[05-Dec-2025 04:52:47 Europe/Berlin] Stored password length: 8
+[05-Dec-2025 04:52:47 Europe/Berlin] Stored password (for debugging): U]D)o7UN
+[05-Dec-2025 04:52:47 Europe/Berlin] Password match result: true
+[05-Dec-2025 04:52:47 Europe/Berlin] Login successful - Redirecting to: voting.php

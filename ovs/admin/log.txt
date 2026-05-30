@@ -1,0 +1,5 @@
+Array
+(
+    [action] => delete
+    [id] => 20
+)

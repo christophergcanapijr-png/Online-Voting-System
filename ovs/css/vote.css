@@ -1,0 +1,236 @@
+/* Default/Desktop styles */
+.navbar-fixed-top {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 1030 !important;
+    width: 100% !important;
+    margin: 0 !important;
+}
+
+.navbar-inner {
+    min-height: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: maroon;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.brand {
+    float: left;
+    display: block;
+    padding: 10px 20px 10px;
+    margin-left: -20px;
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.brand img {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.brand-text-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.chmsc_nav {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.college-text {
+    color: #ccc;
+    font-size: 12px;
+    margin: 0;
+}
+
+.top_date {
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+    color: white;
+    font-size: 12px;
+}
+
+/* Adjust content to account for fixed navbar */
+body {
+    padding-top: 80px !important;
+}
+
+.wrapper {
+    margin-top: 0 !important;
+}
+
+.hero-body-voting {
+    position: relative !important;
+    top: auto !important;
+    transform: none !important;
+    margin-top: 15px;
+}
+
+/* Tablet styles */
+@media (max-width: 1024px) and (min-width: 769px) {
+    .ballot {
+        margin: 15px;
+        padding: 18px;
+        max-width: 90%;
+    }
+    
+    .cent p {
+        font-size: 17px;
+        min-width: 180px;
+    }
+    
+    .hero-body-voting {
+        top: 80px;
+        max-width: 95%;
+        padding: 9px;
+    }
+    
+    .brand img {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .chmsc_nav {
+        font-size: 12px;
+    }
+    
+    .college-text {
+        font-size: 10px;
+    }
+}
+
+/* Mobile styles - match voting.php */
+@media (max-width: 768px) {
+    .navbar-inner {
+        padding: 5px 10px;
+        min-height: auto;
+    }
+    
+    .navbar-inner .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .brand {
+        float: none !important;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        padding: 5px;
+        margin: 0;
+        text-align: center;
+    }
+
+    .brand img {
+        width: 35px !important;
+        height: 35px !important;
+        margin-right: 8px;
+    }
+
+    .brand-text-container {
+        text-align: center;
+    }
+
+    .chmsc_nav {
+        font-size: 11px;
+        line-height: 1.2;
+        margin: 0;
+    }
+
+    .college-text {
+        font-size: 9px;
+        line-height: 1.1;
+        margin: 0;
+    }
+
+    .top_date {
+        float: none;
+        margin: 5px 0;
+        text-align: center;
+        font-size: 8px;
+    }
+
+    .top_date font {
+        font-size: 8px !important;
+        line-height: 1.1;
+    }
+
+    body {
+        padding-top: 65px !important;
+    }
+
+    .navbar {
+        min-height: auto !important;
+    }
+}
+
+/* Very small screens */
+@media (max-width: 480px) {
+    .navbar-inner {
+        padding: 3px 5px;
+    }
+
+    .brand img {
+        width: 30px !important;
+        height: 30px !important;
+        margin-right: 5px;
+    }
+
+    .chmsc_nav {
+        font-size: 9px;
+    }
+
+    .college-text {
+        font-size: 7px;
+    }
+
+    .top_date {
+        font-size: 7px;
+        margin: 3px 0;
+    }
+
+    .top_date font {
+        font-size: 7px !important;
+    }
+
+    body {
+        padding-top: 55px !important;
+    }
+}
+
+/* Remove any fixed widths and floats for mobile */
+@media (max-width: 768px) {
+    * {
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    div[style*="float"] {
+        float: none !important;
+    }
+
+    div[style*="width"] {
+        width: auto !important;
+    }
+}
+@media (max-width: 979px) {
+    .navbar .container {
+        width: auto;
+        padding: 0;
+        margin-bottom: -20px;
+    }
+}

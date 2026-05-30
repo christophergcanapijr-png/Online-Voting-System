@@ -1,0 +1,107 @@
+/* Main wrapper styles */
+.wrapper {
+    padding-top: 60px;
+}
+
+/* Thank you container - dark box */
+.thank_you {
+    background: #000000;
+    padding: 20px;
+    border-radius: 15px;
+    width: 100%;
+    max-width: 800px;
+    min-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    margin-top: 30px; /* Add space between containers */
+}
+
+/* Thank you message styling */
+.thank {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.thank h2 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Vote results container - now inside the thank box */
+.vote-results-container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 800px;
+    padding: 0;
+    background: rgba(30, 30, 30, 0.5);
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+}
+
+.vote-counts {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Section headers */
+.position-section {
+    background: #d40505;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.position-section h3 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    text-align: center;
+}
+
+/* Individual candidate count styling */
+.candidate-count {
+    background: #920000;
+    color: rgb(155, 7, 7);
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 80%;
+    text-align: center;
+}
+
+/* Logout button section */
+.logout-section {
+    margin-top: 30px;
+    text-align: center;
+}
+
+/* Modal styling */
+.modal {
+    border-radius: 10px;
+}
+
+.modal-header {
+    background: #f5f5f5;
+    border-radius: 10px 10px 0 0;
+    padding: 15px;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.modal-footer {
+    background: #f5f5f5;
+    border-radius: 0 0 10px 10px;
+    padding: 15px;
+}
